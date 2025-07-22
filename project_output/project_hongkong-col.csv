@@ -1,0 +1,11 @@
+iso_code,continent,location,date,population,total_cases,new_cases,new_cases_smoothed,total_deaths,new_deaths,new_deaths_smoothed,total_cases_per_million,new_cases_per_million,new_cases_smoothed_per_million,total_deaths_per_million,new_deaths_per_million,new_deaths_smoothed_per_million,reproduction_rate
+HKG,Asia,"Hong Kong",2020-01-31,7488863,0,0,0,0,0,0,0,0,0,0,0,0,0
+HKG,Asia,"Hong Kong",2020-02-01,7488863,0,0,0,0,0,0,0,0,0,0,0,0,0
+HKG,Asia,"Hong Kong",2020-02-02,7488863,0,0,0,0,0,0,0,0,0,0,0,0,0
+HKG,Asia,"Hong Kong",2020-02-03,7488863,0,0,0,0,0,0,0,0,0,0,0,0,0
+HKG,Asia,"Hong Kong",2020-02-04,7488863,0,0,0,0,0,0,0,0,0,0,0,0,0
+HKG,Asia,"Hong Kong",2020-02-05,7488863,0,0,0,0,0,0,0,0,0,0,0,0,0
+HKG,Asia,"Hong Kong",2020-02-06,7488863,0,0,0,0,0,0,0,0,0,0,0,0,0
+HKG,Asia,"Hong Kong",2020-02-07,7488863,0,0,0,0,0,0,0,0,0,0,0,0,0
+HKG,Asia,"Hong Kong",2020-02-08,7488863,0,0,0,0,0,0,0,0,0,0,0,0,0
+HKG,Asia,"Hong Kong",2020-02-09,7488863,0,0,0,0,0,0,0,0,0,0,0,0,0
